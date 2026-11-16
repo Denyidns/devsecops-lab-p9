@@ -1,16 +1,4 @@
 .env
 *.env
-.env.*
 .git
-.gitignore
 __pycache__/
-*.pyc
-*.pyo
-.pytest_cache/
-.vscode/
-.idea/
-tests/
-*.test.py
-docs/
-README.md
-Dockerfile*
